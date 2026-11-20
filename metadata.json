@@ -1,0 +1,6 @@
+{
+  "name": "Cyber Flash",
+  "description": "CYBER TV BOX V9.0 companion & Cyber Flash App: ESP32-S3 hardware management, firmware flashing, CYBER LINK BLE/WLAN control, legal Live-TV & Streaming directory, hardware test matrix, and Cyber AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

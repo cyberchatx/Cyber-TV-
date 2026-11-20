@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Cyber Flash</string>
+    <string name="cyber_ecosystem_subtitle">CYBER TV BOX V9.0</string>
+    <string name="cyber_tagline">Beyond Smart TV · Mehr Freiheit · Mehr Kontrolle</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_devices">Geräte</string>
+    <string name="nav_media">Media &amp; TV</string>
+    <string name="nav_updates">Updates</string>
+    <string name="nav_security">Security</string>
+    <string name="nav_flash">Flash</string>
+    <string name="nav_system">System</string>
+    <string name="cd_cyber_ai">Cyber AI Assistent öffnen</string>
+    <string name="cd_media_tv">Media und Live-TV öffnen</string>
+    <string name="cd_hero_banner">Cyber Holo Kommandozentrale Banner</string>
+    <string name="cd_hardware_deck">Modulare ESP32-S3 Hardware-Architektur</string>
+    <string name="cd_toggle_mode">Modus zwischen TV Mode und Remote Mode wechseln</string>
+    <string name="error_network_offline">Keine Internetverbindung – lokale CYBER-Funktionen bleiben aktiv.</string>
+</resources>
